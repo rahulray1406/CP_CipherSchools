@@ -1,3 +1,5 @@
+/*As we are Performing only constant task the time complexity is O(1) and since we have not used any space the
+Aux space complexity is also O(1) */
 #include <iostream>
 using namespace std;
 bool res(int x1,int x2,int v1,int v2)
